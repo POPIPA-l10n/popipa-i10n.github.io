@@ -1,0 +1,4 @@
+baseURL = 'https://popipa-l10n.github.io/'
+languageCode = 'zh-cn'
+title = 'POPIPA-l10n'
+theme = 'PaperMod'
